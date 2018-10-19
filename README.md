@@ -20,11 +20,11 @@ Documenation and Instructions
 <p>The Action Pack uses the Dollar Universe CLI.</p>
 <p>Prerequisite:</p>
 <ul>
-<li>Install a Automic Workload Automation OS agent on a Dollar Universe Node to be able to execute a Dollar Universe command locally.</li>
+<li>Install an Automic Workload Automation OS agent on a Dollar Universe Node to be able to execute a Dollar Universe command locally</li>
 </ul>
 <p>Information needed for the Actions:</p>
 <ul>
-<li>The Home directory of Dollar Universe</li>
+<li>The Dollar Universe home directory</li>
 <li>The company that will be orchestrated</li>
 <li>The node that will be orchestrated</li>
 </ul>
